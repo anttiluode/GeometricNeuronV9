@@ -1,5 +1,7 @@
 # Geometric Neuron v9: The Skew Lag-Operator Read Path
 
+![pic](https://github.com/anttiluode/GeometricNeuronV9/blob/main/geometric_neuron_v9.png)
+
 **PerceptionLab / Antti Luode, with Claude (Opus 4.8). Helsinki, June 2026.**
 
 > Do not hype. Do not lie. Just show.
